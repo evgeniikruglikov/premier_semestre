@@ -30,7 +30,7 @@ namespace Rabota_nomer_dva
             double a11 = a10 - Math.Pow(1.0 / 3, 1.0 / 3);
 
             Console.WriteLine("Вывод решения ответа при решении в одну строку: " + a0);
-            Console.WriteLine("Вывод решения ответа при разбивании dshf;tybz на части: " + a11);
+            Console.WriteLine("Вывод решения ответа при разбивании выражения на части: " + a11);
             Console.Read();
         }
     }
