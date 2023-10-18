@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Rabota_nomer_odin\Rabota_nomer_odin\bin\Debug\Rabota_nomer_odin.exe
+C:\Users\student\Desktop\Rabota_nomer_odin\Rabota_nomer_odin\bin\Debug\Rabota_nomer_odin.pdb
+C:\Users\student\Desktop\Rabota_nomer_odin\Rabota_nomer_odin\obj\Debug\Rabota_nomer_odin.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Rabota_nomer_odin\Rabota_nomer_odin\obj\Debug\Rabota_nomer_odin.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Rabota_nomer_odin\Rabota_nomer_odin\obj\Debug\Rabota_nomer_odin.exe
+C:\Users\student\Desktop\Rabota_nomer_odin\Rabota_nomer_odin\obj\Debug\Rabota_nomer_odin.pdb
