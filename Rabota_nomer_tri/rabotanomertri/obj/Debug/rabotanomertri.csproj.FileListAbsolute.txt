@@ -1,0 +1,6 @@
+C:\Users\Кругликов Евгений\source\repos\rabotanomertri\rabotanomertri\bin\Debug\rabotanomertri.exe
+C:\Users\Кругликов Евгений\source\repos\rabotanomertri\rabotanomertri\bin\Debug\rabotanomertri.pdb
+C:\Users\Кругликов Евгений\source\repos\rabotanomertri\rabotanomertri\obj\Debug\rabotanomertri.csproj.AssemblyReference.cache
+C:\Users\Кругликов Евгений\source\repos\rabotanomertri\rabotanomertri\obj\Debug\rabotanomertri.csproj.CoreCompileInputs.cache
+C:\Users\Кругликов Евгений\source\repos\rabotanomertri\rabotanomertri\obj\Debug\rabotanomertri.exe
+C:\Users\Кругликов Евгений\source\repos\rabotanomertri\rabotanomertri\obj\Debug\rabotanomertri.pdb
