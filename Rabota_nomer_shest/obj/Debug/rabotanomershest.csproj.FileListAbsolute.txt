@@ -1,6 +1,0 @@
-C:\Users\Кругликов Евгений\source\repos\rabotanomershest\bin\Debug\rabotanomershest.exe
-C:\Users\Кругликов Евгений\source\repos\rabotanomershest\bin\Debug\rabotanomershest.pdb
-C:\Users\Кругликов Евгений\source\repos\rabotanomershest\obj\Debug\rabotanomershest.csproj.AssemblyReference.cache
-C:\Users\Кругликов Евгений\source\repos\rabotanomershest\obj\Debug\rabotanomershest.csproj.CoreCompileInputs.cache
-C:\Users\Кругликов Евгений\source\repos\rabotanomershest\obj\Debug\rabotanomershest.exe
-C:\Users\Кругликов Евгений\source\repos\rabotanomershest\obj\Debug\rabotanomershest.pdb
