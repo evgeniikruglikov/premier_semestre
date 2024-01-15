@@ -1,0 +1,6 @@
+C:\Users\Кругликов Евгений\source\repos\rabotanomersem\bin\Debug\rabotanomersem.exe
+C:\Users\Кругликов Евгений\source\repos\rabotanomersem\bin\Debug\rabotanomersem.pdb
+C:\Users\Кругликов Евгений\source\repos\rabotanomersem\obj\Debug\rabotanomersem.csproj.AssemblyReference.cache
+C:\Users\Кругликов Евгений\source\repos\rabotanomersem\obj\Debug\rabotanomersem.csproj.CoreCompileInputs.cache
+C:\Users\Кругликов Евгений\source\repos\rabotanomersem\obj\Debug\rabotanomersem.exe
+C:\Users\Кругликов Евгений\source\repos\rabotanomersem\obj\Debug\rabotanomersem.pdb
