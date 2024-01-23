@@ -1,0 +1,6 @@
+C:\Users\Кругликов Евгений\source\repos\rabotanomersix\bin\Debug\rabotanomersix.exe
+C:\Users\Кругликов Евгений\source\repos\rabotanomersix\bin\Debug\rabotanomersix.pdb
+C:\Users\Кругликов Евгений\source\repos\rabotanomersix\obj\Debug\rabotanomersix.csproj.AssemblyReference.cache
+C:\Users\Кругликов Евгений\source\repos\rabotanomersix\obj\Debug\rabotanomersix.csproj.CoreCompileInputs.cache
+C:\Users\Кругликов Евгений\source\repos\rabotanomersix\obj\Debug\rabotanomersix.exe
+C:\Users\Кругликов Евгений\source\repos\rabotanomersix\obj\Debug\rabotanomersix.pdb
