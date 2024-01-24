@@ -1,6 +1,0 @@
-C:\Users\Кругликов Евгений\source\repos\rabotanomereight\bin\Debug\rabotanomereight.exe
-C:\Users\Кругликов Евгений\source\repos\rabotanomereight\bin\Debug\rabotanomereight.pdb
-C:\Users\Кругликов Евгений\source\repos\rabotanomereight\obj\Debug\rabotanomereight.csproj.AssemblyReference.cache
-C:\Users\Кругликов Евгений\source\repos\rabotanomereight\obj\Debug\rabotanomereight.csproj.CoreCompileInputs.cache
-C:\Users\Кругликов Евгений\source\repos\rabotanomereight\obj\Debug\rabotanomereight.exe
-C:\Users\Кругликов Евгений\source\repos\rabotanomereight\obj\Debug\rabotanomereight.pdb
